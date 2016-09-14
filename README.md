@@ -40,11 +40,8 @@ Before we can do anything with our code, we need to create our own copy:
 
 
   * *Clone* the files from github using the command:
-        ``` 
-            git clone https://github.com/username/reponame/ 
-        ```
-
-        This will download all of your files from github.
+        `git clone https://github.com/username/reponame/ `
+    This will download all of your files from github.
 
 
 ## Step 3: Fix the problems.
@@ -68,10 +65,20 @@ Before we can do anything with our code, we need to create our own copy:
   * **git push** will upload our changes to github.  Enter your username and password
     if it prompts you to.
 
+Here's a screen-shot of me committing the images needed for this guide.
+
+![git](images/commit.png)
+
 
 ## Step 5: Submitting your work.
 
   * Go back to the github website and navigate to your repository.
+  * Click the 'New pull request' button
+    ![New pull request](images/pull_request.png)
+  * Click the 'Create Pull Request' button:
+    ![Create request](images/create_request.png)
+  * Give your submission a title and add any comments you have about it, and then click 'Create Pull Request' again.
+    ![Finalise request](images/finalise_request.png)
 
 
         
