@@ -1,9 +1,9 @@
 # Problems
 
-This problem set contains two files that you need to make amendments to
-and complete:
+This problem set contains two files that you need to make amendments to:
 
 [ ] six_or_bust.py
+
 [ ] bobs_change.py 
 
 # Using Git & Github
@@ -34,7 +34,7 @@ Before we can do anything with our code, we need to create our own copy:
 
   * Open up git bash - a command prompt should appear.
   * Navigate to where you want to download the problems to (you don't need to create a new folder, this will happen automatically.)  Some useful commands are:
-    -  **cd *folder* ** : Change directory to the specified folder.
+    -  **cd folder** : Change directory to the specified folder.
     -  **cd ..** : Change to the parent directory.
     -  **ls** : Lists the contents of the current directory.
 
@@ -81,5 +81,9 @@ Here's a screen-shot of me committing the images needed for this guide.
     ![Finalise request](images/finalise_request.png)
 
 
-        
+ 
+## All done!
+
+Your work is now submitted - you should receive notifications on github when your work
+has been looked at, and if there are any comments on how you could improve/fix it.
   
