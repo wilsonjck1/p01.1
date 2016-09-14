@@ -3,8 +3,8 @@
 This problem set contains two files that you need to make amendments to
 and complete:
 
-[ ] .py
-[ ] 
+[ ] six_or_bust.py
+[ ] bobs_change.py 
 
 # Using Git & Github
 
