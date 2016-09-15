@@ -18,9 +18,11 @@ Tests:
     30
     >>> bobs_change(132)
     82
+    >>> bobs_change(50)
+    0
     >>> bobs_change(40)
     Sorry Bob, you don't have enough
-
+   
 """
 
 # This code tests your solution. Don't edit it.
