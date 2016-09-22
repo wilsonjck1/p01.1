@@ -38,3 +38,7 @@ def bobs_change(money):
         print ("Sorry Bob, you don't have enough")
 
 
+    if money >=50:
+        print (money-50)
+
+
